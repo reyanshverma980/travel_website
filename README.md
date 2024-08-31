@@ -1,11 +1,8 @@
 <div align="center">
-  <br />  
-  <img src="https://imgur.com/O0IZ9Wb" alt="">
-  <img src="https://imgur.com/A3yvHY7" alt="">
-  <img src="https://imgur.com/83veSLG" alt="">
-  <img src="https://imgur.com/AnJqSqQ" alt="">
-  <br />
-
+  <img src="https://github.com/user-attachments/assets/af5903dd-8972-434e-977b-a9865a71d72e" alt="">
+  <img src="https://github.com/user-attachments/assets/e47534c8-bc11-4197-9539-8b693ea6dda5" alt="">
+  <img src="https://github.com/user-attachments/assets/81dcb309-0a06-49db-9c58-b08e8f5edeee" alt="">
+  <img src="https://github.com/user-attachments/assets/c96a466c-1e86-4f9e-86b8-080bd61701c0" alt="">
   <div>
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
